@@ -1,10 +1,3 @@
-# azure-ml
-
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
-
-meu projeto de machine learning usando dados do azure com dataset do kaggle
 
 ## Project Organization
 
